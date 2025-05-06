@@ -26,14 +26,6 @@ Hello! iam Nafid Fadli<br><br>I am a fresh graduate and focus on web development
 
 <br clear="both">
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Napid23/Napid23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Napid23/Napid23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Napid23/Napid23/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Napid23/Napid23/output/snake.svg" alt="Snake animation" />
