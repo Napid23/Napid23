@@ -23,7 +23,8 @@ Hello! iam Nafid Fadli<br><br>I am a fresh graduate and focus on web development
 
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
-###
+
+<br clear="both">
 
 <br clear="both">
 
@@ -35,10 +36,12 @@ Hello! iam Nafid Fadli<br><br>I am a fresh graduate and focus on web development
 
 ###
 
+<img src="https://raw.githubusercontent.com/Napid23/Napid23/output/snake.svg" alt="Snake animation" />
+
+###
+
 <br clear="both">
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Napid23.Napid23&left_color=darkslateblue"  />
 </div>
-
-###
